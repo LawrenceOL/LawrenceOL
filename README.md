@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Lawrence</h1>
-<h3 align="center">Full-stack developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://lawrence-orl.surge.sh/](https://lawrence-orl.surge.sh/)
-
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1ogHMQFt0id1Jr05Aye4HAfojpcnjsRYi](https://drive.google.com/uc?export=download&id=1ogHMQFt0id1Jr05Aye4HAfojpcnjsRYi)
+- 👨‍💻 [Portfolio Page](https://lawrence-orl.surge.sh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
