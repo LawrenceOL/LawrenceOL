@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 [Portfolio Page](https://lawrence-orl.surge.sh/)
+- 👨‍💻 [Portfolio Page](https://www.lawrenceol.dev)
 
 >
 <p align="left">
