@@ -8,4 +8,4 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats-beta-blue.vercel.app/api/top-langs/?username=lawrenceol)
+![Top Langs](https://github-readme-stats-beta-blue.vercel.app/api/top-langs/?username=lawrenceol&exclude_repo=learning-mooflix)
