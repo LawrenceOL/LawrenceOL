@@ -8,4 +8,4 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats-beta-blue.vercel.app/api/top-langs/?username=lawrenceol&exclude_repo=learning-mooflix,github-readme-stats,Syntax)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceol)](https://github.com/anuraghazra/github-readme-stats)
